@@ -1,0 +1,20 @@
+C:\Users\RG\.jdks\corretto-11.0.12\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\lib\idea_rt.jar=53546:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\bin" -Dfile.encoding=UTF-8 -classpath D:\CS5010\project4\out\production\project4 driver.Main
+Game has started.
+You are in a cave
+Doors lead to the WEST, EAST, NORTH
+You smell a faint stench
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+EAST
+You are in a cave
+Doors lead to the WEST, SOUTH, NORTH
+You smell something awful nearby
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+NORTH
+Chomp, chomp, chomp, you are eaten by an Otyugh!
+Better luck next time
+
+Process finished with exit code 0

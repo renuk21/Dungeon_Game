@@ -1,0 +1,356 @@
+C:\Users\RG\.jdks\corretto-11.0.12\bin\java.exe -Dfile.encoding=windows-1252 -jar D:\CS5010\project4\out\artifacts\project4_nonwrapping_jar2\project4.jar false 5 5 4 40 4
+Game has started.
+You are in a cave
+Treasures in the cave: [DIAMOND, SAPPHIRE]
+Arrows are available in the cave
+Doors lead to the SOUTH
+You smell a faint stench
+Move, Pickup, or Shoot (M-P-S)?
+P
+What (treasure/arrow)? 
+treasure
+Total Treasure collected: {DIAMOND=89, SAPPHIRE=89}
+You are in a cave
+Treasures in the cave: []
+Arrows are available in the cave
+Doors lead to the SOUTH
+You smell a faint stench
+Move, Pickup, or Shoot (M-P-S)?
+P
+What (treasure/arrow)? 
+arrow
+You picked up the arrows 
+You are in a cave
+Treasures in the cave: []
+Doors lead to the SOUTH
+You smell a faint stench
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+SOUTH
+You are in a cave
+Arrows are available in the cave
+Doors lead to the NORTH, EAST, SOUTH
+You smell something awful nearby
+Move, Pickup, or Shoot (M-P-S)?
+P
+What (treasure/arrow)? 
+arrow
+You picked up the arrows 
+You are in a cave
+Doors lead to the NORTH, EAST, SOUTH
+You smell something awful nearby
+Move, Pickup, or Shoot (M-P-S)?
+S
+No. of caves?
+1
+Where to?
+EAST
+You are in a cave
+Doors lead to the NORTH, EAST, SOUTH
+You smell something awful nearby
+Move, Pickup, or Shoot (M-P-S)?
+S
+No. of caves?
+1
+Where to?
+EAST
+You hear a great howl in the distance
+You are in a cave
+Doors lead to the NORTH, EAST, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+EAST
+You are in a cave
+Treasures in the cave: [DIAMOND, SAPPHIRE]
+Doors lead to the NORTH, WEST, EAST, SOUTH
+You smell a faint stench
+Move, Pickup, or Shoot (M-P-S)?
+P
+What (treasure/arrow)? 
+treasure
+Total Treasure collected: {DIAMOND=107, SAPPHIRE=107}
+You are in a cave
+Treasures in the cave: []
+Doors lead to the NORTH, WEST, EAST, SOUTH
+You smell a faint stench
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+EAST
+You are in a tunnel 
+that continues to the WEST, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+SOUTH
+You are in a cave
+Arrows are available in the cave
+Doors lead to the NORTH, WEST, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+WEST
+You are in a tunnel 
+that continues to the NORTH, EAST
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+NORTH
+You are in a cave
+Treasures in the cave: []
+Doors lead to the NORTH, WEST, EAST, SOUTH
+You smell a faint stench
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+NORTH
+You are in a tunnel 
+that continues to the EAST, SOUTH
+You smell something awful nearby
+Move, Pickup, or Shoot (M-P-S)?
+S
+No. of caves?
+1
+Where to?
+EAST
+You are in a tunnel 
+that continues to the EAST, SOUTH
+You smell something awful nearby
+Move, Pickup, or Shoot (M-P-S)?
+S
+No. of caves?
+1
+Where to?
+EAST
+You hear a great howl in the distance
+You are in a tunnel 
+that continues to the EAST, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+EAST
+You are in a cave
+Treasures in the cave: [DIAMOND, SAPPHIRE]
+Doors lead to the WEST
+Move, Pickup, or Shoot (M-P-S)?
+P
+What (treasure/arrow)? 
+treasure
+Total Treasure collected: {DIAMOND=125, SAPPHIRE=125}
+You are in a cave
+Treasures in the cave: []
+Doors lead to the WEST
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+WEST
+You are in a tunnel 
+that continues to the EAST, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+SOUTH
+You are in a cave
+Treasures in the cave: []
+Doors lead to the NORTH, WEST, EAST, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+,
+Invalid input!
+You are in a cave
+Treasures in the cave: []
+Doors lead to the NORTH, WEST, EAST, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+WEST
+You are in a cave
+Doors lead to the NORTH, EAST, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+SOUTH
+You are in a tunnel 
+that continues to the NORTH, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+SOUTH
+You are in a cave
+Treasures in the cave: [DIAMOND, SAPPHIRE]
+Doors lead to the NORTH, EAST, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+P
+What (treasure/arrow)? 
+treasure
+Total Treasure collected: {DIAMOND=143, SAPPHIRE=143}
+You are in a cave
+Treasures in the cave: []
+Doors lead to the NORTH, EAST, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+SOUTH
+You are in a tunnel 
+that continues to the NORTH, EAST
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+EAST
+You are in a cave
+Doors lead to the NORTH, WEST, EAST
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+EAST
+You are in a tunnel 
+that continues to the WEST, EAST
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+EAST
+You are in a tunnel 
+that continues to the NORTH, WEST
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+NORTH
+You are in a cave
+Arrows are available in the cave
+Doors lead to the NORTH, WEST, EAST, SOUTH
+You smell a faint stench
+Move, Pickup, or Shoot (M-P-S)?
+P
+What (treasure/arrow)? 
+arrow
+You picked up the arrows 
+You are in a cave
+Doors lead to the NORTH, WEST, EAST, SOUTH
+You smell a faint stench
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+WEST
+You are in a tunnel 
+that continues to the NORTH, EAST
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+EAST
+You are in a cave
+Doors lead to the NORTH, WEST, EAST, SOUTH
+You smell a faint stench
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+NORTH
+You are in a tunnel 
+that continues to the NORTH, SOUTH
+You smell something awful nearby
+Move, Pickup, or Shoot (M-P-S)?
+S
+No. of caves?
+NORTH
+For input string: "NORTH"
+You are in a tunnel 
+that continues to the NORTH, SOUTH
+You smell something awful nearby
+Move, Pickup, or Shoot (M-P-S)?
+S
+No. of caves?
+1
+Where to?
+NORTH
+You are in a tunnel 
+that continues to the NORTH, SOUTH
+You smell something awful nearby
+Move, Pickup, or Shoot (M-P-S)?
+S
+No. of caves?
+1
+Where to?
+NORTH
+You hear a great howl in the distance
+You are in a tunnel 
+that continues to the NORTH, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+NORTH
+You are in a cave
+Treasures in the cave: [DIAMOND, SAPPHIRE]
+Arrows are available in the cave
+Doors lead to the NORTH, EAST, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+P
+What (treasure/arrow)? 
+treasure
+Total Treasure collected: {DIAMOND=161, SAPPHIRE=161}
+You are in a cave
+Treasures in the cave: []
+Arrows are available in the cave
+Doors lead to the NORTH, EAST, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+P
+What (treasure/arrow)? 
+arrow
+You picked up the arrows 
+You are in a cave
+Treasures in the cave: []
+Doors lead to the NORTH, EAST, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+EAST
+You are in a tunnel 
+that continues to the WEST, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+SOUTH
+You are in a tunnel 
+that continues to the NORTH, SOUTH
+You smell a faint stench
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+SOUTH
+You are in a cave
+Doors lead to the NORTH, WEST, SOUTH
+You smell something awful nearby
+Move, Pickup, or Shoot (M-P-S)?
+S
+No. of caves?
+1
+Where to?
+WEST
+Shot missed!
+You are in a cave
+Doors lead to the NORTH, WEST, SOUTH
+You smell something awful nearby
+Move, Pickup, or Shoot (M-P-S)?
+S
+No. of caves?
+1
+Where to?
+SOUTH
+You are in a cave
+Doors lead to the NORTH, WEST, SOUTH
+You smell something awful nearby
+Move, Pickup, or Shoot (M-P-S)?
+S
+No. of caves?
+1
+Where to?
+SOUTH
+You hear a great howl in the distance
+You are in a cave
+Doors lead to the NORTH, WEST, SOUTH
+Move, Pickup, or Shoot (M-P-S)?
+M
+Where to? 
+SOUTH
+You have Won!!
+
+Process finished with exit code 0
